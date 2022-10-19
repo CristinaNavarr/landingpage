@@ -1,0 +1,38 @@
+.imagen{
+    position: absolute;
+    width: 744px;
+    height: 1024px;
+    left: 734px;
+    top: 0px;
+    background: url(image_1.jpg);
+}
+.titulo{
+    position: absolute;
+    width: 256px;
+    height: 182px;
+    left: 123px;
+    top: 328px;
+    font-family: 'Histora Beralin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 90px;
+    letter-spacing: 0.07em;
+    color: #4154FF;
+}
+.vanilablues{
+    position: absolute;
+    width: 201px;
+    height: 28px;
+    left: 82px;
+    top: 38px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.3em;
+    color: #000000;
+}
+
+
