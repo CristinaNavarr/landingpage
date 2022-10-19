@@ -1,5 +1,6 @@
 .imagen{
-    position: absolute;
+    padding-left: 870px;
+    padding-top: 0px;
     width: 744px;
     height: 1024px;
     left: 734px;
@@ -7,7 +8,9 @@
     background: url(image_1.jpg);
 }
 .titulo{
-    position: absolute;
+    paddin: 90px;
+    padding-left: 123px;
+    padding-right: 1061px;
     width: 256px;
     height: 182px;
     left: 123px;
@@ -21,7 +24,6 @@
     color: #4154FF;
 }
 .vanila{
-    position: absolute;
     width: 201px;
     height: 28px;
     left: 82px;
@@ -35,7 +37,6 @@
     color: #000000;
 }
 .blues{
-    position:absolute;
     width: 201px;
     height: 28px;
     left: 82px;
