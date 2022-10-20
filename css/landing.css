@@ -8,7 +8,7 @@
     background: url(image_1.jpg);
 }
 .titulo{
-    padding: 90px;
+    padding-top: 90px;
     padding-left: 123px;
     padding-right: 1061px;
     width: 256px;
@@ -49,4 +49,8 @@
     letter-spacing: 0.3em;
     color: #FB4BAE;
 }
-
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
