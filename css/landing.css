@@ -5,7 +5,25 @@
     height: 1024px;
     left: 734px;
     top: 0px;
-    background: url(image_1.jpg);
+}
+div.img{
+    background-image: url("../assets/icons/imgs/image_1.jpg");
+}
+
+.principal{
+    background-size: cover;
+    background-position: top center;
+    width: 744px;
+    height:1024px;
+    display: flex;
+    align-items: stretch;
+
+}
+.contenedor{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row-reverse ;
+
 }
 .titulo{
     padding-top: 90px;
@@ -35,19 +53,6 @@
     line-height: 28px;
     letter-spacing: 0.3em;
     color: #000000;
-}
-.blues{
-    width: 201px;
-    height: 28px;
-    left: 82px;
-    top: 38px;
-    font-family: 'Raleway';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 28px;
-    letter-spacing: 0.3em;
-    color: #FB4BAE;
 }
 .contenedor{
     position: relative;
